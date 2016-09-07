@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-Muse-AFNetworking.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-Muse-JSONModel.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Pods-Muse-MBProgressHUD.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Pods-Muse-MDCSwipeToChoose.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Pods-Muse.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>018BE2B130B9961A51D6A504</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4E517287E31ABA67DB75B241</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5B7B10EACFFC99228DEF6A01</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C5AD7516EEDC3AEED87FEDA5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EB8A27EB5522A0F2E8BA81A5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

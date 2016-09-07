@@ -1,0 +1,1 @@
+../../../MDCSwipeToChoose/MDCSwipeToChoose/Public/Options/MDCSwipeOptions.m
